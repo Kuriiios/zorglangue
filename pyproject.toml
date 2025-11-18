@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+# Add the current directory ('.') to the Python path 
+# so 'app' can be found.
+pythonpath = ["."]
